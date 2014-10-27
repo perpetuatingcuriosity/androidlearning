@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--App Resources-->
+    <string name="app_name">Ribbit</string>
+
+    <!--Main Activity Strings-->
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_logout_label">Logout</string>
+
+    <!--Login/SignUp Shared Strings-->
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+
+    <!--Login Activity Strings-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_button_label">Login</string>
+    <string name="signup_text">Sign Up!</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="login_error_message">Please make sure you enter a username and password</string>
+
+    <!--Sign Up Activity Strings-->
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="email_hint">Email</string>
+    <string name="sign_up_button_label">Sign Up</string>
+    <string name="signup_error_message">Please make sure you enter a username, password, and valid email address</string>
+    <string name="signup_error_title">Oops!</string>
+
+
+</resources>
