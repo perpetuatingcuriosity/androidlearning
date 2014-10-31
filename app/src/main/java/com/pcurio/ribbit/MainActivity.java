@@ -313,6 +313,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
             case R.id.action_edit_friends:
                 Intent intent = new Intent(this,EditFriendsActivity.class);
                 startActivity(intent);
+            //ACTION CAMERA!!!!
             case R.id.action_camera:
                 AlertDialog.Builder builder = new AlertDialog.Builder(this);
                 builder.setItems(R.array.camera_choices, mDialogListener);
